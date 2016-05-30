@@ -1,0 +1,22 @@
+{
+  "name": "angular-utilities",
+  "version": "1.0.0",
+  "description": "Some Utility Services and Filters I have been using in most of my projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrahulroy/angular-utilities.git"
+  },
+  "keywords": [
+    "angular",
+    "utilities",
+    "core",
+    "filters",
+    "directives"
+  ],
+  "author": "Rahul Jujarey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrahulroy/angular-utilities/issues"
+  },
+  "homepage": "https://github.com/jrahulroy/angular-utilities#readme"
+}
