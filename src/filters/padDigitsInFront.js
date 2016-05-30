@@ -6,7 +6,7 @@
 
     angular
         .module('angular-utilities')
-        .filter('padDigitsInFront', function () {
+        .filter('auPadZerosInFront', function () {
             return function (number, digits) {
                 if (number) {
                     return Array(Math.max(digits - String(number).length + 1, 0)).join(0) + number;

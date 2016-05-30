@@ -6,7 +6,12 @@ Some Utility Services and Filters I have been using in most of my projects
 ## au-on-enter
 Can be used on textbox, On pressing enter when textbox is focussed. This will trigger function called.
 
+# filters
 
+##auPadZerosInFront
+
+Adds zeroes infront of a number
+variable | auPadZerosInFront : (digits)
 
 
 # To Do
