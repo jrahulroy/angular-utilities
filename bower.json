@@ -1,0 +1,25 @@
+{
+  "name": "angular-utilities",
+  "description": "Some Utility Services and Filters I have been using in most of my projects",
+  "main": "",
+  "authors": [
+    "Rahul Jujarey"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "utilities",
+    "core",
+    "filters",
+    "directives"
+  ],
+  "homepage": "https://github.com/jrahulroy/angular-utilities",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
